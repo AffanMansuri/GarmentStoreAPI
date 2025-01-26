@@ -1,0 +1,41 @@
+﻿# .NET Core
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer package files
+*.exe
+*.dll
+*.pdb
+*.lib
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# .vs folder (Visual Studio)
+.vs/
+.vscode/
+
+# Rider IDE
+.idea/
+
+# Microsoft Azure Web App publish settings
+.publish/
+
+# ASP.NET Core secrets
+secrets/
+
+# Dotnet Core tool cache
+.dotnet/
